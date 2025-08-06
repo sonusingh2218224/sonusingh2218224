@@ -6,6 +6,44 @@
 <img src="https://github.com/sonusingh2218224.png" alt="Sonu Singh" width="120" height="120" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);"/>
 
 <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Full+Stack+Developer+%26+UI%2FUX+Designer;💻+MERN+Stack+%2B+React+Native+Expert;🎨+Crafting+Digital+Experiences+with+Passion;☕+Turning+Coffee+into+Code+Since+2021" alt="Typing SVG" />
+
+<!-- Social Stats with Custom Styling -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge&logo=code&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00d4ff?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-00d4ff?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+</p>
+
+<!-- Profile Views and Social Badges with Glow Effect -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sonusingh2218224&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sonusingh2218224?label=Followers&style=for-the-badge&color=00d4ff&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/sonusingh2218224?label=Total%20Stars&style=for-the-badge&color=00d4ff&logoColor=white" alt="GitHub Stars" />
+</p>
+
+<!-- Quick Connect Buttons -->
+<p>
+  <a href="https://www.linkedin.com/in/sonusingh001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sonusingh2218224@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sonusingh2218224" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- Current Status with Emojis -->
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Currently Building Amazing Digital Experiences 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+React+Native;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Amazing+Digital+Experiences" alt="Typing SVG" />

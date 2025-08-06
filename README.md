@@ -45,8 +45,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+React+Native;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+
 
 </div>
 

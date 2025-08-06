@@ -3,9 +3,9 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sonu%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Mobile%20Developer&descAlignY=55&descAlign=50&descSize=16"/>
 
-<img src="https://github.com/sonusingh2218224.png" alt="Sonu Singh" width="120" height="120" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);"/>
 
-<br/>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Full+Stack+Developer+%26+UI%2FUX+Designer;💻+MERN+Stack+%2B+React+Native+Expert;🎨+Crafting+Digital+Experiences+with+Passion;☕+Turning+Coffee+into+Code+Since+2021" alt="Typing SVG" />
 
 <!-- Social Stats with Custom Styling -->
@@ -36,7 +36,6 @@
 </p>
 
 <!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
 

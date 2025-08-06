@@ -15,9 +15,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<div align="center">
+<div align="start">
 
-<img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/profile_photo.png" width="150" style="border-radius: 50%;" />
 
 ### 👋 Hi, I'm **Sonu Singh**
 

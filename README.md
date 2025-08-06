@@ -29,6 +29,31 @@ motto: "Code with passion, design with purpose"
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 What I'm Up To
+
+- 🔭 I'm currently working on **MERN Stack & React Native** projects
+- 🌱 I'm currently learning **Backend Architecture & Mobile Deployment**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, React Native**
+
+</td>
+<td width="50%">
+
+### 📫 Get In Touch
+
+- 📧 Email: **[sonusingh2218224@gmail.com](mailto:sonusingh2218224@gmail.com)**
+- 💼 LinkedIn: **[Connect with me](https://www.linkedin.com/in/sonusingh001/)**
+- ⚡ Fun fact: **I turn coffee into code ☕**
+- 🎯 Always open for **freelance opportunities**
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Arsenal

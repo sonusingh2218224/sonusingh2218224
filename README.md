@@ -68,10 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="30"/>
+ 
 </p>
 
 ---

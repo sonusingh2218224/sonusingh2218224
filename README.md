@@ -17,13 +17,15 @@
 
 <div align="center">
 
-name: Sonu Singh
-role: Full Stack Developer
-location: India 🇮🇳
-focus: ["Web Development", "Mobile Apps", "UI/UX Design"]
-currently_learning: ["Backend Architecture", "Mobile Deployment"]
-fun_fact: "I love crafting pixel-perfect UIs ✨"
-motto: "Code with passion, design with purpose"
+<img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/profile_photo.png" width="150" style="border-radius: 50%;" />
+
+### 👋 Hi, I'm **Sonu Singh**
+
+🚀 **Full Stack Developer** | 🇮🇳 India  
+🎯 Focused on: `Web Development`, `Mobile Apps`, `UI/UX Design`  
+📚 Currently Learning: `Backend Architecture`, `Mobile Deployment`  
+🎨 Fun Fact: _I love crafting pixel-perfect UIs_ ✨  
+💡 Motto: **"Code with passion, design with purpose"**
 
 </div>
 

@@ -30,7 +30,7 @@
         <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754503101/github/ecomoon_tdeh1z.png" alt="The Smart Cab" width="100%" style="border-radius: 15px;" />
         <h3>Ecomoon EnterPrises</h3>
       </a>
-      <p>At Ecomoon, we offer premium stationery, housekeeping supplies, and packaging materials 
+      <p>At Ecomoon, we offer premium stationery, housekeeping supplies
 
 .<br/><strong>Tech:</strong> React, Node, MongoDB</p>
     </td>

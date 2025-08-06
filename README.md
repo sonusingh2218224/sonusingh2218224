@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sonu%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sonu%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Mobile%20Developer&descAlignY=55&descAlign=50&descSize=16"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+React+Native;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Amazing+Digital+Experiences" alt="Typing SVG" />

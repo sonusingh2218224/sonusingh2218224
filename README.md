@@ -21,13 +21,48 @@
 
 ---
 
-## 🌟 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-| Project | Preview | Description | Tech Stack |
-|--------|---------|-------------|------------|
-| **The Smart Cab** | <img src="https://www.thesmartcab.in/logo192.png" width="200"/> | Cab booking platform with dashboard | React, Node, MongoDB |
-| **A2G Load** | <img src="https://a2gload.com/assets/images/logo.png" width="200"/> | Transporter & logistics website | MERN, Bootstrap |
-| **Career Sankalp** | <img src="https://careersankalp.in/assets/images/logo.png" width="200"/> | Educational and career counseling platform | MERN, React Native |
+<!-- The Smart Cab -->
+<p align="center">
+  <a href="https://www.thesmartcab.in/" target="_blank">
+    <img src="https://www.thesmartcab.in/logo192.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="The Smart Cab"/>
+  </a>
+</p>
+<p align="center">
+  <strong>The Smart Cab</strong><br/>
+  📝 Cab booking platform with dashboard<br/>
+  🛠️ Tech Stack: React, Node, MongoDB
+</p>
+
+---
+
+<!-- A2G Load -->
+<p align="center">
+  <a href="https://a2gload.com/" target="_blank">
+    <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276413_vsyqgt.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="A2G Load"/>
+  </a>
+</p>
+<p align="center">
+  <strong>A2G Load</strong><br/>
+  🚚 Transporter & logistics website<br/>
+  🛠️ Tech Stack: MERN, Bootstrap
+</p>
+
+---
+
+<!-- Career Sankalp -->
+<p align="center">
+  <a href="https://careersankalp.in/" target="_blank">
+    <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276424_s9pemd.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="Career Sankalp"/>
+  </a>
+</p>
+<p align="center">
+  <strong>Career Sankalp</strong><br/>
+  🎓 Educational and career counseling platform<br/>
+  🛠️ Tech Stack: MERN, React Native
+</p>
+
 
 > ℹ️ *You can replace logos with full project screenshots for better presentation.*
 

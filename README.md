@@ -98,18 +98,7 @@ motto: "Code with passion, design with purpose"
 `MERN Stack` `React Native` `Firebase`
 
 </td>
-<td width="50%">
 
-### 🚀 More Projects Coming Soon...
-[![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-45B7D1?style=for-the-badge)](#)
-
-<img src="https://via.placeholder.com/400x200/45B7D1/ffffff?text=More+Projects+Coming+Soon" width="100%" alt="Coming Soon"/>
-
-**Exciting projects in development**
-
-`Next.js` `TypeScript` `Prisma`
-
-</td>
 </tr>
 </table>
 

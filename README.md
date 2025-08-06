@@ -6,7 +6,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Full+Stack+Developer+%26+UI%2FUX+Designer;💻+MERN+Stack+%2B+React+Native+Expert;🎨+Crafting+Digital+Experiences+with+Passion;☕+Turning+Coffee+into+Code+Since+2021" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Welcome+to+my+GitHub+Profile!;🚀+Full+Stack+Developer+%26+UI%2FUX+Designer;" alt="Typing SVG" />
 
 <!-- Social Stats with Custom Styling -->
 <p>

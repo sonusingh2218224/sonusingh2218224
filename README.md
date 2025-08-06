@@ -53,6 +53,117 @@ motto: "Code with passion, design with purpose"
 </td>
 </tr>
 </table>
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,typescript,tailwind,figma" />
+
+### 📱 Mobile & Tools
+
+<img src="https://skillicons.dev/icons?i=react,expo,firebase,git,github,vscode,postman,vercel" />
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ "Code with passion, design with purpose" ✨**
+
+<img src="https://komarev.com/ghpvc/?username=sonusingh2218224&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🧠 Skills & Experience Mindmap
+
+\`\`\`mermaid
+mindmap
+  root((Sonu Singh<br/>Full Stack Developer))
+    Frontend
+      React.js
+        ::icon(fa fa-react)
+        3+ Years
+        Hooks & Context
+        Redux Toolkit
+      Next.js
+        ::icon(fa fa-rocket)
+        2+ Years
+        SSR/SSG
+        App Router
+      TypeScript
+        ::icon(fa fa-code)
+        2+ Years
+        Type Safety
+        Interfaces
+      Styling
+        ::icon(fa fa-paint-brush)
+        Tailwind CSS (3+ Years)
+        Material UI (2+ Years)
+        Styled Components
+    Backend
+      Node.js
+        ::icon(fa fa-server)
+        3+ Years
+        Express.js
+        RESTful APIs
+      Database
+        ::icon(fa fa-database)
+        MongoDB (3+ Years)
+        Mongoose ODM
+        Firebase (2+ Years)
+      Authentication
+        ::icon(fa fa-shield)
+        JWT Tokens
+        OAuth 2.0
+        Passport.js
+    Mobile
+      React Native
+        ::icon(fa fa-mobile)
+        2+ Years
+        Cross Platform
+        Native Modules
+      Expo
+        ::icon(fa fa-rocket)
+        2+ Years
+        EAS Build
+        OTA Updates
+      App Store
+        ::icon(fa fa-store)
+        Play Store
+        App Store Connect
+    Design
+      Figma
+        ::icon(fa fa-figma)
+        3+ Years
+        Prototyping
+        Design Systems
+      UI/UX
+        ::icon(fa fa-palette)
+        3+ Years
+        User Research
+        Wireframing
+      Tools
+        ::icon(fa fa-tools)
+        Canva (2+ Years)
+        Adobe XD
+        Photoshop
+    DevOps
+      Deployment
+        ::icon(fa fa-cloud)
+        Vercel (2+ Years)
+        Netlify (2+ Years)
+        Render (1+ Year)
+      Version Control
+        ::icon(fa fa-git)
+        Git (3+ Years)
+        GitHub Actions
+        CI/CD Pipelines
+
+</div>
+
 
 ---
 

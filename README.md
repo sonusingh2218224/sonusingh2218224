@@ -23,45 +23,48 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!-- The Smart Cab -->
-<p align="center">
-  <a href="https://www.thesmartcab.in/" target="_blank">
-    <img src="https://www.thesmartcab.in/logo192.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="The Smart Cab"/>
-  </a>
-</p>
-<p align="center">
-  <strong>The Smart Cab</strong><br/>
-  📝 Cab booking platform with dashboard<br/>
-  🛠️ Tech Stack: React, Node, MongoDB
-</p>
+<table align="center">
+  <tr>
+    <!-- The Smart Cab -->
+    <td align="center" width="50%">
+      <a href="https://www.thesmartcab.in/" target="_blank">
+        <img src="https://www.thesmartcab.in/logo192.png" alt="The Smart Cab" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
+        <h3>The Smart Cab</h3>
+      </a>
+      <p>Cab booking platform with admin dashboard.<br/><strong>Tech:</strong> React, Node, MongoDB</p>
+    </td>
 
----
+    <!-- A2G Load -->
+    <td align="center" width="50%">
+      <a href="https://a2gload.com/" target="_blank">
+        <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276413_vsyqgt.png" alt="A2G Load" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
+        <h3>A2G Load</h3>
+      </a>
+      <p>Transporter & logistics website.<br/><strong>Tech:</strong> MERN, Bootstrap</p>
+    </td>
+  </tr>
 
-<!-- A2G Load -->
-<p align="center">
-  <a href="https://a2gload.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276413_vsyqgt.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="A2G Load"/>
-  </a>
-</p>
-<p align="center">
-  <strong>A2G Load</strong><br/>
-  🚚 Transporter & logistics website<br/>
-  🛠️ Tech Stack: MERN, Bootstrap
-</p>
+  <tr>
+    <!-- Career Sankalp -->
+    <td align="center" width="50%">
+      <a href="https://careersankalp.in/" target="_blank">
+        <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276424_s9pemd.png" alt="Career Sankalp" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
+        <h3>Career Sankalp</h3>
+      </a>
+      <p>Educational & career counseling platform.<br/><strong>Tech:</strong> MERN, React Native</p>
+    </td>
 
----
+    <!-- Add Future Project -->
+    <td align="center" width="50%">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/600x350?text=Your+Next+Project" alt="Coming Soon" width="100%" style="border-radius: 15px; opacity: 0.6;"/>
+        <h3>Coming Soon</h3>
+      </a>
+      <p>Your next great project goes here!<br/><strong>Tech:</strong> TBD</p>
+    </td>
+  </tr>
+</table>
 
-<!-- Career Sankalp -->
-<p align="center">
-  <a href="https://careersankalp.in/" target="_blank">
-    <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276424_s9pemd.png" width="300" style="border-radius: 10px; box-shadow: 0px 0px 10px #ccc;" alt="Career Sankalp"/>
-  </a>
-</p>
-<p align="center">
-  <strong>Career Sankalp</strong><br/>
-  🎓 Educational and career counseling platform<br/>
-  🛠️ Tech Stack: MERN, React Native
-</p>
 
 
 > ℹ️ *You can replace logos with full project screenshots for better presentation.*

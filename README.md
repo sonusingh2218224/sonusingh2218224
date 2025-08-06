@@ -1,13 +1,34 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20I'm%20Sonu%20Singh&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
-</p>
 
-<h2 align="center">🚀 MERN Stack Developer | React Native Enthusiast | UI/UX Designer</h2>
+## 👋 Hey, I'm Sonu Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonusingh2218224&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
+  <img src="https://res.cloudinary.com/dyg9hizdr/image/upload/v1754501913/github/Frame_1171276424_s9pemd.png" alt="Sonu Singh" width="180" style="border-radius: 50%; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);" />
+</div>
+
+### 💼 Full Stack Developer | UI/UX Enthusiast | Mobile Developer
+
+---
+
+### 🚀 Quick Highlights
+
+- 🧑‍💻 Passionate **Full Stack Developer** building **web + mobile apps** using `MERN Stack` & `React Native`
+- 🎨 UI lover: Designing elegant UIs in **Figma** & **Canva**
+- 🔍 Currently exploring: **Backend Architecture** & **Mobile Deployment**
+- 📧 Reach me: **[sonusingh2218224@gmail.com](mailto:sonusingh2218224@gmail.com)**
+- 🇮🇳 **15th August Tribute**: Proud to be Indian — _**जय हिंद 🇮🇳**_
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Frontend    : React.js, React Native, Next.js
+Backend     : Node.js, Express.js
+Database    : MongoDB, Firebase
+UI/UX       : Figma, Canva, TailwindCSS, Material UI
+Deployment  : Vercel, Netlify, Render
+Versioning  : Git, GitHub
 
 ---
 

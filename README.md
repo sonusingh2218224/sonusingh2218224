@@ -153,24 +153,4 @@ motto: "Code with passion, design with purpose"
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Sonu Singh))
-    Frontend
-      React.js
-      Next.js
-      TypeScript
-      Tailwind CSS
-    Backend
-      Node.js
-      Express.js
-      MongoDB
-      REST APIs
-    Mobile
-      React Native
-      Expo
-      Firebase
-    Design
-      Figma
-      Canva
-      UI/UX
+

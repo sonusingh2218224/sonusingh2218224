@@ -14,7 +14,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`yaml
 name: Sonu Singh
 role: Full Stack Developer
 location: India 🇮🇳
@@ -22,7 +21,6 @@ focus: ["Web Development", "Mobile Apps", "UI/UX Design"]
 currently_learning: ["Backend Architecture", "Mobile Deployment"]
 fun_fact: "I love crafting pixel-perfect UIs ✨"
 motto: "Code with passion, design with purpose"
-\`\`\`
 
 - 🔭 I'm currently working on **MERN Stack & React Native** projects
 - 🌱 I'm currently learning **Backend Architecture & Mobile Deployment**
